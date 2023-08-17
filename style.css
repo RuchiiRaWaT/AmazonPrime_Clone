@@ -1,0 +1,234 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    outline: none;
+    margin: 0;
+}
+.p{
+    width: 150px;
+    height: 70px;
+    mix-blend-mode: lighten;
+}
+.i{
+    font-size: 24px;
+    margin-top:  14px; 
+    margin-left: 1050px;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+.navbar{
+    overflow: hidden;
+    background-color: rgba(22,31,53,0.97);
+}
+.navbar a{
+    float: left;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+.drop{
+    float: left;
+    overflow: hidden;
+}
+ .drop .dropbtn{
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+.drop-content{
+    display: none;
+    position: relative;
+    background-color: rgba(22,31,53,0.97);
+    min-width: 560px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    height: 400px;
+    float: right;
+
+}
+.drop-content a{
+    float: none;
+    color: white;
+    padding: 12px 16px;
+    display: block;
+    text-decoration: none;
+    text-align: left;
+}
+.drop-content a:hover{
+   background-color: #ddd;
+}
+.drop:hover .drop-content{
+    display: block;
+}
+.h{
+    background-color: #222;
+    margin-left: 100px;
+     transform: rotate(90deg);
+     width: 50%;
+     margin-top: -190px;
+
+}
+.d{
+    margin-top: -190px;
+    margin-left: 370px;
+}
+.s{
+
+    margin-top: 15px;
+    
+}
+.img {
+    margin-top: 10px;
+    margin-left: 670px;
+     height: 200%;
+     width: 53%;
+    border-radius: 5px;
+   
+}
+.im{margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 770px;
+    margin-right: 20px;
+    width: 45%;
+    height: 560px;
+   border-radius: 5px;
+}
+.e{
+    color: #fff;
+    margin-left: 60px;
+    font-size: 45px;
+    margin-top: -370px;
+}
+.t{
+    color: #fff;
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button2{
+    background-color: #026f94;
+    border: none;
+    color: white;
+    padding: 15px 92px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 40px;
+    cursor: pointer;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.e2{
+    color: #fff;
+    font-size: 45px;
+    margin-top: -400px;
+}
+.t2{
+    color: #fff;
+    font-size: 25px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.w{
+    margin-top: 240px;
+
+}
+.s2{
+    margin-right: 670px;
+    height: 50%;
+    width: 56%;
+    border-radius: 25px;
+    margin-top: 200px;
+}
+.w1{
+    margin-left: 680px;
+}
+
+.w2{
+     margin-top: 230px;
+     background-color: #fff;
+     margin-bottom: 150px;
+}
+.e3{
+        color: black;
+        font-size: 40px;
+        margin-top: -300px;
+        margin-left: 45px;
+}
+.t3{
+     color: black;
+     font-size: 25px;
+     margin-top: 40px;
+     margin-left: 50px;
+     font-family: 'Times New Roman', Times, serif;
+}
+.w3{
+    margin-top: 50px;
+}
+.e4{
+    color: #fff;
+    font-size: 45px;
+    margin-top: -370px;
+    margin-left: 720px;
+}
+.t5{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 720px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.s3{
+   width: 43%;
+   height: 20%;
+}
+.w4{
+    margin-top: 150px;
+}
+.e5{
+    color: #fff;
+    font-size: 45px;
+    margin-top: -220px;
+    margin-left: 140px;
+}
+.imga{
+    margin-top: 60px;
+    width: 620px;
+    height: 400px;
+    margin-left: 800px;
+    margin-bottom: 30px;
+}
+
+.t6{
+    color: #fff;
+    font-size: 25px;
+    margin-left: 140px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.w5{
+    background-color: rgb(41 ,40 ,40);
+    height:160px;
+    width: 1550px;
+
+}
+.y{
+    width: 150px;
+    height: 60px;
+    mix-blend-mode: lighten;
+    margin-top: 40px;
+    margin-left: 600px;
+}
